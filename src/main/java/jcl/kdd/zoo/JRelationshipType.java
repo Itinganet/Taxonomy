@@ -8,7 +8,7 @@ package jcl.kdd.zoo;
 import org.neo4j.graphdb.RelationshipType;
 
 /**
- *
+ * 
  * @author jcl
  */
 public class JRelationshipType implements RelationshipType{
